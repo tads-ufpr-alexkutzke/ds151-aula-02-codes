@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá Mundo TADS</string>
+    <string name="button_label_less">Mostrar menos</string>
+    <string name="button_label_more">Mostrar Mais</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World TADS</string>
+    <string name="button_label_less">Show less</string>
+    <string name="button_label_more">Show More</string>
+</resources>
